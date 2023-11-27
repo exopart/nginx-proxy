@@ -21,4 +21,4 @@ services:
   whoami:
     image: jwilder/whoami
     environment:
-      - VIRTUAL_HOST=whoami.example
+      - VIRTUAL_HOST=dragonknight.in.net
